@@ -1,9 +1,0 @@
-bin
-obj
-*.user
-*.suo
-packages
-.tools
-private.snk
-.idea
-BenchmarkDotNet.Artifacts/
