@@ -1,4 +1,6 @@
-﻿# Crc32.NET
+﻿﻿# Note
+This repo was originally created by [**force-net**](https://github.com/force-net/Crc32.NET) and some of its functionality like CRC32C was removed for this version of Crc32.NET.
+# Crc32.NET
 
 Optimized and fast managed implementation of Crc32 & Crc32C (Castagnoly) algorithms for .NET and .NET Core. 
 
